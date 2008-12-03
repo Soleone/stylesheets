@@ -1,6 +1,6 @@
 .textfield-icon {
-  /* specify URL for icon inline at element */
-  /* background: url(); */
+  /* Specify URL for icon inline at element like this:      */
+  /* style="background-image: url(YOUR_IMAGE_URL_HERE)"     */
   background-repeat: no-repeat;
   background-position: 2px 2px;
   border: 1px solid #333;
